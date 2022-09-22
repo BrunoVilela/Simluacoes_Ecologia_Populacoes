@@ -1,4 +1,4 @@
-# Simluacoes_Ecologia_Populacoes
+# Simluações para atividade de Ecologia Populacoes
 Código para simular a população de diferentes espécies em diferentes locais, para atividade prática dos alunos.
 
 Instruções:
